@@ -1,4 +1,8 @@
 function t = findHomography(fixed, moving, vargain)
+
+    % Adapted from the MATLAB imregister code for Automated Intensity 
+    % Based Image Registration found here : 
+    % https://www.mathworks.com/help/images/intensity-based-automatic-image-registration.html
     % fixed: the image to be match
     % moving: the image to be warped to the fixed image
     % vargain{1}: variable if the image is a dicom or not
