@@ -5,7 +5,7 @@ This repository contains the relevant notebooks used to complete my Fall 2023 Se
 
 ## Data
 Data was downloaded from the following link: https://www.10xgenomics.com/products/xenium-in-situ/preview-dataset-human-breast
-Specifically the data was downloaded from the "In-Stui Sample 1, Replicate 1" and the "Visium Spatial" tabs
+Specifically the data was downloaded from the "In-Situ Sample 1, Replicate 1" and the "Visium Spatial" tabs
 
 ### References and Adapted Code
 - The cellcutter repository is pipelined to in this project and the provided demo was adapted in order to setup the model's pipeline with the relevant data.
