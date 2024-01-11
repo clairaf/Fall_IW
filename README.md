@@ -3,6 +3,10 @@
 
 This repository contains the relevant notebooks used to complete my Fall 2023 Senior Independant Work (IW). My IW aimed to automate the image registration process between Xenium and Visium Tissue H&E images to produce a mapping between the two datasets, which will assit in filling in sparse data. Additionally, my IW aimed to experiment with other cell segmentation models on the Xenium H&E image to further define cell boundaries. 
 
+## Data
+Data was downloaded from the following link: https://www.10xgenomics.com/products/xenium-in-situ/preview-dataset-human-breast
+Specifically the data was downloaded from the "In-Stui Sample 1, Replicate 1" and the "Visium Spatial" tabs
+
 ### References and Adapted Code
 - The cellcutter repository is pipelined to in this project and the provided demo was adapted in order to setup the model's pipeline with the relevant data.
 - Tutorials from 10x genomics were referenced in respect to learning how to access the information in the given output files and how to process the data given its structure.
