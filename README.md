@@ -10,5 +10,6 @@ Specifically the data was downloaded from the "In-Situ Sample 1, Replicate 1" an
 ### References and Adapted Code
 - The cellcutter repository is pipelined to in this project and the provided demo was adapted in order to setup the model's pipeline with the relevant data.
 - Tutorials from 10x genomics were referenced in respect to learning how to access the information in the given output files and how to process the data given its structure.
-- A demo page for computing mutual information and histograms: https://matthew-brett.github.io/teaching/mutual_information.html 
-
+- A demo page for computing mutual information and histograms: https://matthew-brett.github.io/teaching/mutual_information.html
+- SIFT adapted from:  https://www.analyticsvidhya.com/blog/2019/10/detailed-guide-powerful-sift-technique-image-matching-python/
+  https://pyimagesearch.com/2020/08/31/image-alignment-and-registration-with-opencv/
